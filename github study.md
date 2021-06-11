@@ -1,2 +1,2 @@
-This is for a new github study
+This is for a new github study.
 
